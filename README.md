@@ -1,5 +1,3 @@
-# Memory RAM Usage
-
 ![Preview](https://github.com/lucasdealmeidadev/node_hardware/blob/master/banner.png?raw=true)
 
 Construindo um aplicativo para monitoramento da memória RAM com TypeScript. Esse projeto foi uma ampliação da aula ministrada por **Diana Martine** no treinamento **Digital Innovation One**.
