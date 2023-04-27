@@ -54,7 +54,7 @@ Caso tenham dúvidas sobre o código do projeto, sintam-se a vontade em abrir um
 
 ## Licença
 
-* Licenciado sob a licença MIT - veja [LICENSE](https://github.com/lucasdealmeidadev/node_hardware/blob/main/LICENCE) para mais informações.
+* Licenciado sob a licença MIT - veja [LICENSE](https://github.com/lucasdealmeidadev/node_hardware/blob/master/LICENSE) para mais informações.
 
 ----------
 
